@@ -137,4 +137,3 @@ const RoomsFilter = ({ rooms }) => {
 };
 
 export default RoomsFilter;
-
