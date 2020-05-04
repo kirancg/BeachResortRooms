@@ -71,7 +71,7 @@ const RoomsFilter = ({ rooms }) => {
             {people}
           </select>
         </div>
-        {/* end of guests */}
+        {/* end of guestgit */}
         {/* room price */}
         <div className="form-group">
           <label htmlFor="price">room price ${price}</label>
